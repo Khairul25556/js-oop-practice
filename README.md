@@ -6,7 +6,7 @@ This project covers key OOP fundamentals like:
 - Factory Function  
 - Constructor Function  
 - Class Syntax  
-- Class Inheritance using `extends` and `super`  
+- Class Inheritance using `extends` and `super` 
 
 ---
 
